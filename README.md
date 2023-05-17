@@ -12,6 +12,9 @@ El Juego de la Vida de Conway es un autómata celular diseñado por el matemáti
 
 Estas reglas determinan cómo evolucionan las células en cada generación del juego. A partir del estado inicial, se aplican estas reglas para calcular el estado de las células en la siguiente generación. Este proceso se repite iterativamente para simular la evolución y el comportamiento del sistema.
 
+<p align="center">
+  <img src="img/JuegoVida.gif" alt="Alt text" width="40%" height="40%">
+</p>
 
 ## Instalación
 
@@ -35,14 +38,19 @@ Estas reglas determinan cómo evolucionan las células en cada generación del j
     python ConwaysGameofLife.py.py
     ```
 2. Pulsa cualquier tecla para pausar el tiempo
-3. Dibuja con el click del ratón las células vivas con las que quieres que se inicie tu mundo
-4. Pulsa cualquier tecla para pausar o reanudar el juego.
-5. Disfruta de la vida y la muerte
-6. Cierra la ventana del juego para salir.
+3. Dibuja con el click izquierdo del ratón las células vivas con las que quieres que se inicie tu mundo
+4. Con el click derecho del ratón puedes matar las células vivas
+5. Pulsa cualquier tecla para pausar o reanudar el juego.
+6. Disfruta de la vida y la muerte
+7. Cierra la ventana del juego para salir.
 
 ## Contribución
 Las contribuciones son bienvenidas. Si tienes alguna idea o mejora, por favor crea un issue o envía una pull request.
 
 ## Recursos adicionales
 [Wikipedia](https://es.wikipedia.org/wiki/Juego_de_la_vida) - Juego de la Vida
-[Video interesante](https://www.youtube.com/watch?v=2ssnMkJFqbA) sobre el Juego de la Vida de Conway
+
+[Video interesante](https://www.youtube.com/watch?v=2ssnMkJFqbA) sobre el Juego de la Vida de Conway y sus aplicaciones
+
+## Autor
+Enrique Vasallo Fernández
