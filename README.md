@@ -17,21 +17,21 @@ Estas reglas determinan cómo evolucionan las células en cada generación del j
 
 1. Clona este repositorio:
 
-   ```
+   ```bash
    git clone https://github.com/Vasallo94/El_Juego_de_la_Vida_de_Conway
    ```
 2. Navega hasta el directorio del proyecto haciendo:
-    ```
+    ```bash
     cd El_Juego_de_la_Vida_de_Conway
     ```
 3. Instala las dependencias utilizando pip:
-    ```
+    ```bash
     pip install -r requirements.txt
     ```
     
 ## Uso
 1. Ejecuta el script del juego:
-    ```
+    ```bash
     python game_of_life.py
     ```
 2. Pulsa cualquier tecla para pausar el tiempo
