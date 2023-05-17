@@ -32,7 +32,7 @@ Estas reglas determinan cómo evolucionan las células en cada generación del j
 ## Uso
 1. Ejecuta el script del juego:
     ```bash
-    python game_of_life.py
+    python ConwaysGameofLife.py.py
     ```
 2. Pulsa cualquier tecla para pausar el tiempo
 3. Dibuja con el click del ratón las células vivas con las que quieres que se inicie tu mundo
